@@ -1,0 +1,27 @@
+/build
+
+# Firebase config
+google-services.json
+google-services.json.url
+firebase.json
+
+# Android generated folders
+/.gradle
+/local.properties
+/app/build/
+/.idea/
+/build/
+/*.iml
+
+# IntelliJ/Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Kotlin build
+/.kotlin/
+
+# General MacOS/Windows/Linux
+.DS_Store
+Thumbs.db
